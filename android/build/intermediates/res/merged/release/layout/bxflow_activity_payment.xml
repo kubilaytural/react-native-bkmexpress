@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.ac.P"
+    android:background="@color/bxflow_white">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/bxflow_toolbar_payment" />
+
+    <ScrollView
+        android:layout_below="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:isScrollContainer="true"
+            android:orientation="vertical">
+
+
+            <com.bkm.mobil.bexflowsdk.ui.v.CVP
+                android:id="@+id/pager_cards"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/apptxt_payment_info_title"
+                android:layout_centerHorizontal="true"
+                 />
+
+            <RelativeLayout
+                android:id="@+id/payment_merch_ic_am_container"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@+id/apptxt_unusable_card_message"
+                android:layout_marginTop="10dp">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bxflow_softgray_divider"
+                    android:layout_alignParentTop="true"
+                   />
+
+                <View
+                    android:id="@+id/vertical_divider"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:background="@color/bxflow_softgray_divider"/>
+
+                <me.grantland.widget.AutofitTextView
+                    android:id="@+id/aftxt_amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_toRightOf="@+id/vertical_divider"
+                    android:layout_toEndOf="@+id/vertical_divider"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:textColor="@color/bxflow_black"
+                    android:textSize="24sp"
+                    app:sizeToFit="true"
+                    tools:text="56 TL" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bxflow_softgray_divider"
+                    android:layout_alignParentBottom="true"
+                    />
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/appimg_merchant"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitCenter"
+                    android:padding="2dp"
+                    android:src="@drawable/isyerleri_logo_emptydata"
+                    android:layout_toLeftOf="@+id/vertical_divider"
+                    android:layout_toStartOf="@+id/vertical_divider"
+                    android:layout_centerVertical="true"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/installment_container_rl"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_below="@+id/payment_merch_ic_am_container">
+                <View
+                    android:id="@+id/installment_upper_line"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bxflow_divider"
+                    android:layout_alignParentTop="true"
+                    android:visibility="gone"/>
+
+                <View
+                    android:id="@+id/installment_bottom_line"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bxflow_softgray_divider"
+                    android:layout_alignParentBottom="true"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/installment_label"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/bxflow_black"
+                    android:layout_toLeftOf="@+id/installment_vertical_divider"
+                    android:layout_toStartOf="@+id/installment_vertical_divider"
+                    android:text="@string/bxflow_installment_options_label"
+                    android:gravity="center"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/installment_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/bxflow_black"
+                    android:layout_toRightOf="@+id/installment_vertical_divider"
+                    android:layout_toEndOf="@+id/installment_vertical_divider"
+                    android:gravity="center"
+                    tools:text="12 x 756,42TL"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:drawableEnd="@drawable/ic_right_arrow"
+                    android:drawableRight="@drawable/ic_right_arrow"
+                    android:drawablePadding="2dp"/>
+
+                <View
+                    android:id="@+id/installment_vertical_divider"
+                    android:layout_width="1dp"
+                    android:layout_height="100dp"
+                    android:layout_centerInParent="true"
+                    />
+            </RelativeLayout>
+
+            <android.support.v7.widget.AppCompatTextView
+
+                android:id="@+id/apptxt_unusable_card_message"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/pager_cards"
+                android:layout_margin="15dp"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="@string/bxflow_unusable_card_message"
+                android:textColor="@color/bxflow_soluk_red"
+                android:textSize="14sp"
+                android:visibility="gone"
+                tools:visibility="visible"
+                android:background="@drawable/bxflow_rounded_red_frame"/>
+
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/appbtn_continue"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/appbtn_installment"
+                android:layout_margin="20dp"
+                android:text="DEVAM" />
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/appbtn_installment"
+                android:background="@drawable/bxflow_selectable_item_background"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/installment_container_rl"
+                android:layout_alignBottom="@+id/installment_container_rl"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/apptxt_payment_info_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lines="2"
+                android:gravity="center_horizontal"
+                android:padding="10dp"
+                android:textColor="@color/bxflow_gray"
+                android:textSize="15sp"
+                tools:text="some text here"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    <!--include layout="@layout/welcome_message_bar" /-->
+
+</RelativeLayout>

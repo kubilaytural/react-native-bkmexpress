@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bxflow_white"
+    android:fitsSystemWindows="true">
+    <include
+        android:id="@+id/bxsdk_toolbar_otp"
+        layout="@layout/bxflow_toolbar_otp_cancel" />
+
+    <ScrollView
+        android:layout_below="@+id/bxsdk_toolbar_otp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/apptxt_otp_header_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textColor="@color/bxflow_black"
+                android:textSize="16sp" />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/apptxt_otp_timer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/apptxt_otp_header_info"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:drawableLeft="@drawable/watch_icon"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:paddingRight="10dp"
+                android:textColor="@color/bxflow_black"
+                android:text="00:00"
+                android:textSize="18sp"
+                fontPath="fonts/open_sans_regular.ttf"/>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txtinp_otp_input"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/apptxt_otp_timer"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:hint="@string/bxflow_otp_hint"
+                app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+                app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint"
+                fontPath="fonts/open_sans_regular.ttf">
+
+
+                <android.support.v7.widget.AppCompatEditText
+                    android:id="@+id/appedt_otp_input"
+                    style="@style/bxflow_AppCompatEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:theme="@style/bxflow_AppCompatEditText"
+                    fontPath="fonts/open_sans_regular.ttf"/>
+            </android.support.design.widget.TextInputLayout>
+
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/apptxt_otp_bank_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtinp_otp_input"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="Gönderen"
+                android:textColor="@color/bxflow_black"
+                android:textSize="16sp"
+                fontPath="fonts/open_sans_regular.ttf"/>
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/apptxt_otp_ref_info"
+                android:layout_below="@+id/apptxt_otp_bank_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="Ref No: *******"
+                android:textColor="@color/bxflow_black"
+                android:textSize="16sp"
+                fontPath="fonts/open_sans_regular.ttf"/>
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/appbtn_otp_send"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/apptxt_otp_ref_info"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/bxflow_custom_green_button"
+                android:text="@string/bxflow_send_label"
+                android:textAllCaps="false"
+                android:textColor="@color/bxflow_white"
+                fontPath="fonts/open_sans_regular.ttf"/>
+
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

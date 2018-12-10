@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/40b93d4565e03f255624e148f2be53fa/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

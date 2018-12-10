@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "278"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "278"
+                    }
+                }
+            ]
+        }
+    ]
+}

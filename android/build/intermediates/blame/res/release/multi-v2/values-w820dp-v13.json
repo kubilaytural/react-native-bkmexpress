@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

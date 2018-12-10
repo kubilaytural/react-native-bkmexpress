@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_white_arrow_down.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_white_arrow_down.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8766e0ad11567c59e8e63b1b9578e8ff/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_12.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_12.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/isyerleri_logo_emptydata.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/isyerleri_logo_emptydata.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_right_arrow.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_right_arrow.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_13.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_13.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/bxflow_ic_exit.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/bxflow_ic_exit.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_27.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_27.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_43.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_43.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_card_back.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_card_back.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_28.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_28.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_14.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_14.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_add_card.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_add_card.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_25.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_25.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_39.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_39.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/vpi__tab_unselected_focused_holo.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/11ef4b9dc1db5bc6677f1b0ae50dc2a1/res/drawable-mdpi-v4/vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_44.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_44.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_41.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_41.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/vpi__tab_selected_pressed_holo.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/11ef4b9dc1db5bc6677f1b0ae50dc2a1/res/drawable-mdpi-v4/vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/design_ic_visibility.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/40b93d4565e03f255624e148f2be53fa/res/drawable-mdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8766e0ad11567c59e8e63b1b9578e8ff/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_30.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_30.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_eye_close.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_eye_close.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_11.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_11.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8766e0ad11567c59e8e63b1b9578e8ff/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_15.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_15.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/right_arrow_icon.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/right_arrow_icon.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_24.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_24.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_40.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_40.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_3.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_3.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_sort_down.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_sort_down.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_6.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_6.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_31.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_31.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8766e0ad11567c59e8e63b1b9578e8ff/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_37.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_37.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_34.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_34.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/design_ic_visibility_off.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/40b93d4565e03f255624e148f2be53fa/res/drawable-mdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/register_btn_icon.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/register_btn_icon.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/vpi__tab_selected_holo.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/11ef4b9dc1db5bc6677f1b0ae50dc2a1/res/drawable-mdpi-v4/vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_add_card_rectangle.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_add_card_rectangle.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_21.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_21.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_4.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_4.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_18.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_18.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_5.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_5.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_20.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_20.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_19.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_19.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_35.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_35.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8766e0ad11567c59e8e63b1b9578e8ff/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_17.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_17.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_22.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_22.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/bxflow_white_actionbar_logo.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/bxflow_white_actionbar_logo.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_36.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_36.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/loading_oval_bg.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/loading_oval_bg.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_33.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_33.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/bxflow_cancel_quickpay.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/bxflow_cancel_quickpay.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_card_front.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_card_front.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_32.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_32.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_38.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_38.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_7.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_7.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_1.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_1.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/logo_green.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/logo_green.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_10.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_10.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/vpi__tab_unselected_pressed_holo.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/11ef4b9dc1db5bc6677f1b0ae50dc2a1/res/drawable-mdpi-v4/vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/watch_icon.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/watch_icon.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_23.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_23.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_2.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_2.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_16.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_16.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_8.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_8.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/vpi__tab_unselected_holo.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/11ef4b9dc1db5bc6677f1b0ae50dc2a1/res/drawable-mdpi-v4/vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_42.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_42.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_eye_open.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_eye_open.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/vpi__tab_selected_focused_holo.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/11ef4b9dc1db5bc6677f1b0ae50dc2a1/res/drawable-mdpi-v4/vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_29.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_29.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_26.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_26.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_loader_45.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-mdpi-v4/ic_loader_45.png"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    }
+]

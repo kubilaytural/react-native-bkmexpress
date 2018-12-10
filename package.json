@@ -1,0 +1,27 @@
+
+{
+  "name": "react-native-bkmexpress",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubilaytural/react-native-bkmexpress.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "KubilayTural, Fırat Sezel",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/kubilaytural/react-native-bkmexpress/issues"
+  },
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "homepage": "https://github.com/kubilaytural/react-native-bkmexpress#readme"
+}

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bxflow_white">
+
+    <include
+        android:id="@+id/bxflow_toolbar_ac"
+        layout="@layout/bxflow_toolbar_green" />
+<ScrollView
+    android:layout_below="@+id/bxflow_toolbar_ac"
+    android:fillViewport="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:isScrollContainer="true"
+        android:padding="15dp">
+
+        <android.support.v4.widget.Space
+            android:id="@+id/space_center_divider"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginEnd="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginStart="15dp" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/apptxt_info_msg"
+            fontPath="fonts/opensans_bold.ttf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="@string/bxflow_add_card_label"
+            android:textColor="@color/bxflow_black"
+            android:textSize="16sp"
+            android:layout_marginBottom="20dp"
+            />
+
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/tinplay_first6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/apptxt_info_msg"
+            android:layout_marginTop="30dp"
+            android:layout_toLeftOf="@+id/space_center_divider"
+            android:layout_toStartOf="@+id/space_center_divider"
+            android:hint="@string/bxflow_first6_card_number_hint"
+            app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+            app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/tinpedt_first6"
+                style="@style/bxflow_AppCompatEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:maxLength="6"
+                android:nextFocusRight="@+id/tinpedt_last4"
+                android:theme="@style/bxflow_AppCompatEditText"
+                fontPath="fonts/open_sans_regular.ttf"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/tinplay_last4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/tinplay_first6"
+            android:layout_toEndOf="@+id/space_center_divider"
+            android:layout_toRightOf="@+id/space_center_divider"
+            android:hint="@string/bxflow_last4_card_number_hint"
+            app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+            app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/tinpedt_last4"
+                style="@style/bxflow_AppCompatEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:maxLength="4"
+                android:nextFocusDown="@+id/tinpedt_cvc"
+                android:theme="@style/bxflow_AppCompatEditText"
+                fontPath="fonts/open_sans_regular.ttf"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/tinplay_cvc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tinplay_first6"
+            android:layout_marginTop="10dp"
+            android:hint="@string/bxflow_security_code_hint"
+            app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+            app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/tinpedt_cvc"
+                style="@style/bxflow_AppCompatEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:maxLength="3"
+                android:nextFocusDown="@+id/tinpedt_identity_customer_no"
+                android:theme="@style/bxflow_AppCompatEditText"
+                fontPath="fonts/open_sans_regular.ttf"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/tinplay_identity_customer_no"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tinplay_cvc"
+            android:layout_marginTop="10dp"
+            android:hint="@string/bxflow_turkish_identity_no"
+            app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+            app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint"
+            fontPath="fonts/open_sans_regular.ttf">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/tinpedt_identity_customer_no"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:imeOptions="actionDone"
+                android:inputType="number"
+                android:maxLength="11"
+                android:textSize="16sp"
+                android:theme="@style/bxflow_AppCompatEditText"
+                fontPath="fonts/open_sans_regular.ttf"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.v7.widget.AppCompatCheckBox
+            android:id="@+id/appcbx_not_citizen_turkish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tinplay_identity_customer_no"
+            android:layout_marginTop="5dp"
+            android:text="@string/bxflow_not_citizen_of_turkey"
+            fontPath="fonts/open_sans_regular.ttf"/>
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/appbtn_continue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/appcbx_not_citizen_turkish"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/bxflow_custom_green_button"
+            android:text="@string/bxflow_btn_continue"
+            android:textColor="@color/bxflow_white"
+            fontPath="fonts/open_sans_regular.ttf"
+            />
+    </RelativeLayout>
+</ScrollView>
+</RelativeLayout>

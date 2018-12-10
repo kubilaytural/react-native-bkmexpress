@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinator_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bxflow_white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:isScrollContainer="true"
+            android:padding="15dp">
+
+            <android.support.v4.widget.Space
+                android:id="@+id/space_center_divider"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginEnd="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginStart="5dp" />
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/tinplay_first6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="10dp"
+                android:layout_toLeftOf="@+id/space_center_divider"
+                android:layout_toStartOf="@+id/space_center_divider"
+                android:hint="@string/bxflow_first6_card_number_hint"
+                app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+                app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/tinpedt_first6"
+                    style="@style/bxflow_AppCompatEditText"
+                    fontPath="fonts/open_sans_regular.ttf"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionNext"
+                    android:inputType="number"
+                    android:maxLength="6"
+                    android:nextFocusRight="@+id/tinpedt_last4"
+                    android:theme="@style/bxflow_AppCompatEditText" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/tinplay_last4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@+id/tinplay_first6"
+                android:layout_toEndOf="@+id/space_center_divider"
+                android:layout_toRightOf="@+id/space_center_divider"
+                android:hint="@string/bxflow_last4_card_number_hint"
+                app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+                app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/tinpedt_last4"
+                    style="@style/bxflow_AppCompatEditText"
+                    fontPath="fonts/open_sans_regular.ttf"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionNext"
+                    android:inputType="number"
+                    android:maxLength="4"
+                    android:nextFocusDown="@+id/tinpedt_cvc"
+                    android:theme="@style/bxflow_AppCompatEditText" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/tinplay_cvc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tinplay_first6"
+                android:layout_marginTop="10dp"
+                android:hint="@string/bxflow_security_code_hint"
+                app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+                app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/tinpedt_cvc"
+                    style="@style/bxflow_AppCompatEditText"
+                    fontPath="fonts/open_sans_regular.ttf"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionNext"
+                    android:inputType="number"
+                    android:maxLength="3"
+                    android:nextFocusDown="@+id/tinpedt_identity_customer_no"
+                    android:theme="@style/bxflow_AppCompatEditText" />
+            </android.support.design.widget.TextInputLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/payment_merch_ic_am_container"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@+id/tinplay_cvc"
+                android:layout_marginTop="20dp">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentTop="true"
+                    android:background="@color/bxflow_softgray_divider" />
+
+                <View
+                    android:id="@+id/vertical_divider"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:background="@color/bxflow_softgray_divider" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/bxflow_softgray_divider" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:background="@color/bxflow_softgray_divider" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:background="@color/bxflow_softgray_divider" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:layout_toLeftOf="@+id/vertical_divider"
+                    android:layout_toStartOf="@+id/vertical_divider">
+
+                    <android.support.v7.widget.AppCompatImageView
+                        android:id="@+id/appimg_merchant"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_centerVertical="true"
+                        android:padding="5dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/isyerleri_logo_emptydata" />
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toEndOf="@+id/vertical_divider"
+                    android:layout_toRightOf="@+id/vertical_divider">
+
+                    <me.grantland.widget.AutofitTextView
+                        android:id="@+id/aftxt_amount"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/bxflow_black"
+                        android:textSize="24sp"
+                        app:sizeToFit="true"
+                        tools:text="56 TL" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/installment_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/payment_merch_ic_am_container"
+                android:layout_marginTop="10dp"
+                android:visibility="gone"
+                tools:visibility="visible">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/appbtn_installment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bxflow_selectable_item_background" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/installment_label"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/installment_vertical_divider"
+                    android:layout_toStartOf="@+id/installment_vertical_divider"
+                    android:gravity="center"
+                    android:text="@string/bxflow_installment_options_label"
+                    android:textColor="@color/bxflow_black" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/installment_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_toEndOf="@+id/installment_vertical_divider"
+                    android:layout_toRightOf="@+id/installment_vertical_divider"
+                    android:drawableEnd="@drawable/ic_right_arrow"
+                    android:drawablePadding="2dp"
+                    android:drawableRight="@drawable/ic_right_arrow"
+                    android:gravity="center"
+                    android:textColor="@color/bxflow_black"
+                    tools:text="12 x 756,42TL" />
+
+                <View
+                    android:id="@+id/installment_vertical_divider"
+                    android:layout_width="1dp"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true" />
+
+            </RelativeLayout>
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/appcmpbtn_register2"
+                fontPath="fonts/open_sans_regular.ttf"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/installment_container"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bxflow_custom_green_button"
+                android:text="@string/bxflow_next_button_label"
+                android:textColor="@color/bxflow_white" />
+
+        </RelativeLayout>
+    </ScrollView>
+</android.support.design.widget.CoordinatorLayout>

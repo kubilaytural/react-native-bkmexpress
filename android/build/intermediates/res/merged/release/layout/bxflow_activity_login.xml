@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bxflow_white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/bxflow_white"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:isScrollContainer="true"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin">
+
+            <android.support.v7.widget.AppCompatImageButton
+                android:id="@+id/appbtn_cancel_merchant"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_margin="5dp"
+                android:background="?selectableItemBackgroundBorderless"
+                android:padding="10dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/bxflow_cancel_quickpay" />
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/appimg_green_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="40dp"
+                android:src="@drawable/logo_green" />
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txtinp_user_name"
+                fontPath="fonts/open_sans_regular.ttf"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/appimg_green_icon"
+                android:layout_marginTop="30dp"
+                android:hint="@string/bxflow_login_label_etusername_tckn"
+                app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+                app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint">
+
+                <android.support.v7.widget.AppCompatAutoCompleteTextView
+                    android:id="@+id/appedt_user_name"
+                    style="@style/bxflow_AppCompatEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textEmailAddress"
+                    android:longClickable="false"
+                    android:theme="@style/bxflow_AppCompatEditText" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txtinp_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtinp_user_name"
+                android:hint="@string/bxflow_password"
+                app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+                app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint">
+
+                <android.support.v7.widget.AppCompatEditText
+                    android:id="@+id/appedt_password"
+                    style="@style/bxflow_AppCompatEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
+                    android:maxLength="20"
+                    android:theme="@style/bxflow_AppCompatEditText" />
+
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.v7.widget.AppCompatImageButton
+                android:id="@+id/appibtn_eye"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@+id/txtinp_password"
+                android:layout_marginTop="13dp"
+                android:background="?selectableItemBackgroundBorderless"
+                android:padding="5dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_eye_open"
+                android:visibility="gone"
+                tools:visibility="visible" />
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/appbtn_forgot_password"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtinp_password"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:clickable="true"
+                android:gravity="center"
+                android:minHeight="0dp"
+                android:paddingEnd="5dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingStart="5dp"
+                android:text="@string/bxflow_login_button_forgot"
+                android:textAllCaps="false"
+                android:textSize="12sp" />
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/appbtn_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/appbtn_forgot_password"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/bxflow_custom_green_button"
+                android:text="@string/bxflow_login"
+                android:textColor="@color/bxflow_white" />
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/appbtn_register"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/appbtn_login"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/bxflow_custom_white_button"
+                android:drawableLeft="@drawable/register_btn_icon"
+                android:drawableStart="@drawable/register_btn_icon"
+                android:gravity="center"
+                android:paddingEnd="40dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="40dp"
+                android:paddingStart="30dp"
+                android:text="@string/bxflow_register"
+                android:textColor="@color/bxflow_green" />
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

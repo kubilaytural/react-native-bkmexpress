@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/lib/me.grantland.widget.AutofitTextView"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingEnd="@dimen/viewpager_card_preview_padding"
+    android:paddingLeft="@dimen/viewpager_card_preview_padding"
+    android:paddingRight="@dimen/viewpager_card_preview_padding"
+    android:paddingStart="@dimen/viewpager_card_preview_padding">
+
+    <RelativeLayout
+        android:id="@+id/rel_card_holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@+id/appimg_card_shadow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/appimg_card"
+            android:layout_alignEnd="@+id/appimg_card"
+            android:layout_alignLeft="@+id/appimg_card"
+            android:layout_alignRight="@+id/appimg_card"
+            android:layout_alignStart="@+id/appimg_card"
+            android:layout_alignTop="@+id/appimg_card"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bxflow_card_shadow" />
+
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@+id/appimg_card"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:padding="2dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_card_front" />
+
+
+        <me.grantland.widget.AutofitTextView
+            android:id="@+id/aftxt_card_number"
+            fontPath="fonts/card_font_normal.ttf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/aftxt_owner_name"
+            android:layout_centerHorizontal="true"
+            android:layout_marginEnd="25dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginStart="25dp"
+            android:shadowColor="@color/bxflow_black"
+            android:shadowDx="-2"
+            android:shadowDy="-2"
+            android:shadowRadius="2"
+            android:singleLine="true"
+            android:textColor="@color/bxflow_white"
+            android:textSize="20sp"
+            app:minTextSize="12sp"
+            tools:text="1234 1234 1234 1234" />
+
+        <me.grantland.widget.AutofitTextView
+            android:id="@+id/aftxt_owner_name"
+            fontPath="fonts/card_font_normal.ttf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/appimg_card"
+            android:layout_alignLeft="@+id/aftxt_card_number"
+            android:layout_alignStart="@+id/aftxt_card_number"
+            android:layout_marginBottom="38dp"
+            android:layout_marginTop="10dp"
+            android:shadowColor="@color/bxflow_black"
+            android:shadowDx="-2"
+            android:shadowDy="-2"
+            android:shadowRadius="2"
+            android:singleLine="true"
+            android:textColor="@color/bxflow_white"
+            android:textSize="14sp"
+            app:minTextSize="12sp"
+            tools:text="First Name Last Name" />
+    </RelativeLayout>
+</RelativeLayout>

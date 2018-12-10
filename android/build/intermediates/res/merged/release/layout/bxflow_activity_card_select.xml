@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    tools:context=".ui.ac.CS">
+
+    <include
+        android:id="@+id/bxsdk_toolbar_cs"
+        layout="@layout/bxflow_toolbar_green" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_below="@+id/bxsdk_toolbar_cs"
+        android:id="@+id/apptxt_info_msg"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="some text here"
+        android:textColor="@color/bxflow_black"
+        android:textSize="16sp" />
+
+    <com.bkm.bexandroidsdk.ui.v.CVP
+        android:id="@+id/pager_cards"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/apptxt_info_msg"
+        android:layout_marginTop="30dp" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/appbtn_approve"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pager_cards"
+        android:layout_marginEnd="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/bxflow_custom_green_button"
+        android:text="@string/bxflow_approve_button"
+        android:textColor="@color/bxflow_white"
+        fontPath="fonts/open_sans_regular.ttf"/>
+
+</RelativeLayout>

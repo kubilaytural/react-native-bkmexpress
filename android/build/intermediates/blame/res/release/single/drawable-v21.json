@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/bxflow_custom_green_button.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-v21/bxflow_custom_green_button.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/bxflow_selectable_item_background_rounded.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-v21/bxflow_selectable_item_background_rounded.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/40b93d4565e03f255624e148f2be53fa/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8766e0ad11567c59e8e63b1b9578e8ff/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/40b93d4565e03f255624e148f2be53fa/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/40b93d4565e03f255624e148f2be53fa/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/bxflow_selectable_item_background.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-v21/bxflow_selectable_item_background.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/bxflow_selectable_item_background_borderless.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-v21/bxflow_selectable_item_background_borderless.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/bxflow_custom_white_button.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/bexflowsdk-1.0.1.aar/a70ad17093abd0a0b55947d3e7014f78/res/drawable-v21/bxflow_custom_white_button.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/40b93d4565e03f255624e148f2be53fa/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/kentkart/Documents/kk_gaziantep/node_modules/react-native-bkmexpress/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/kentkart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a78d0b7802bfb99a72d9489d4d60487b/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

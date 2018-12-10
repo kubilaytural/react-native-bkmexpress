@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinator_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bxflow_white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:isScrollContainer="true"
+            android:padding="15dp">
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txtinp_tckn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+                app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint"
+                fontPath="fonts/open_sans_regular.ttf"
+                android:layout_marginTop="5dp"
+                >
+
+                <android.support.v7.widget.AppCompatEditText
+                    android:id="@+id/appedt_tckn"
+                    style="@style/bxflow_AppCompatEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/bxflow_turkish_identity_no"
+                    android:inputType="number"
+                    android:importantForAutofill="noExcludeDescendants"
+                    android:theme="@style/bxflow_AppCompatEditText"
+                    fontPath="fonts/open_sans_regular.ttf"
+                    android:longClickable="false"
+                    tools:text="53296139312">
+                    <requestFocus />
+                </android.support.v7.widget.AppCompatEditText>
+            </android.support.design.widget.TextInputLayout>
+
+
+            <android.support.v7.widget.AppCompatCheckBox
+
+                android:id="@+id/appcbx_not_citizen_turkish"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bxflow_not_citizen_of_turkey"
+                android:textSize="14sp"
+                fontPath="fonts/open_sans_regular.ttf"
+                android:layout_below="@+id/txtinp_tckn"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txtinp_phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/appcbx_not_citizen_turkish"
+                app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+                app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint"
+                fontPath="fonts/open_sans_regular.ttf">
+
+                <android.support.v7.widget.AppCompatEditText
+                    android:id="@+id/appedt_phone"
+                    style="@style/bxflow_AppCompatEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/bxflow_phone"
+                    android:inputType="phone"
+                    android:digits="1234567890"
+                    android:importantForAutofill="noExcludeDescendants"
+                    android:theme="@style/bxflow_AppCompatEditText"
+                    fontPath="fonts/open_sans_regular.ttf">
+
+                </android.support.v7.widget.AppCompatEditText>
+            </android.support.design.widget.TextInputLayout>
+
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txtinp_user_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+                app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint"
+                fontPath="fonts/open_sans_regular.ttf"
+                android:layout_below="@+id/txtinp_phone">
+
+                <android.support.v7.widget.AppCompatAutoCompleteTextView
+                    android:id="@+id/appedt_user_name"
+                    style="@style/bxflow_AppCompatEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/bxflow_email"
+                    android:inputType="textEmailAddress"
+                    android:importantForAutofill="noExcludeDescendants"
+                    android:theme="@style/bxflow_AppCompatEditText"
+                    fontPath="fonts/open_sans_regular.ttf">
+                </android.support.v7.widget.AppCompatAutoCompleteTextView>
+            </android.support.design.widget.TextInputLayout>
+
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/txtinp_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtinp_user_name"
+                app:errorTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Error"
+                app:hintTextAppearance="@style/bxflow_TextInputLayout.TextAppearance.Hint"
+                fontPath="fonts/open_sans_regular.ttf"
+                >
+
+                <android.support.v7.widget.AppCompatEditText
+                    android:id="@+id/appedt_password"
+                    style="@style/bxflow_AppCompatEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/bxflow_password"
+                    android:inputType="textPassword"
+                    android:importantForAutofill="noExcludeDescendants"
+                    android:maxLength="20"
+                    android:theme="@style/bxflow_AppCompatEditText"
+                    fontPath="fonts/open_sans_regular.ttf"/>
+
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.v7.widget.AppCompatImageButton
+                android:id="@+id/appibtn_eye"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@+id/txtinp_password"
+                android:layout_marginTop="13dp"
+                android:background="?selectableItemBackgroundBorderless"
+                android:padding="5dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_eye_open"
+                android:visibility="gone"
+                tools:visibility="visible" />
+
+
+            <RelativeLayout
+                android:id="@+id/rl_terms_of_use"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtinp_password"
+                android:layout_marginTop="10dp">
+            <android.support.v7.widget.AppCompatCheckBox
+                android:id="@+id/appcbx_terms_of_service"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/apptxt_terms_of_service" />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/apptxt_terms_of_service"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_toEndOf="@+id/appcbx_terms_of_service"
+                android:layout_toRightOf="@+id/appcbx_terms_of_service"
+                android:text="@string/bxflow_register_label_cbagreement"
+                android:textColor="@drawable/bxflow_selector_agreement_et"
+                android:textSize="13sp"
+                fontPath="fonts/open_sans_regular.ttf"/>
+            </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_terms_of_policy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rl_terms_of_use"
+            android:layout_marginTop="5dp">
+
+            <android.support.v7.widget.AppCompatCheckBox
+                android:id="@+id/appcbx_policy_on_commercial_communication"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/apptxt_policy_on_commercial_communication" />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/apptxt_policy_on_commercial_communication"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_toEndOf="@+id/appcbx_policy_on_commercial_communication"
+                android:layout_toRightOf="@+id/appcbx_policy_on_commercial_communication"
+                android:text="@string/bxflow_register_label_cbcampaign_agreement"
+                android:textColor="@drawable/bxflow_selector_agreement_et"
+                android:textSize="13sp"
+                fontPath="fonts/open_sans_regular.ttf"
+                />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/personal_data_btn"
+                android:layout_below="@+id/apptxt_policy_on_commercial_communication"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bxflow_register_label_personal_data_info"
+                android:textColor="@drawable/bxflow_selector_agreement_et"
+                android:layout_alignStart="@+id/apptxt_policy_on_commercial_communication"
+                android:layout_alignLeft="@+id/apptxt_policy_on_commercial_communication"
+                android:padding="5dp"
+                android:textSize="13sp"/>
+
+        </RelativeLayout>
+
+
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/appcmpbtn_register1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rl_terms_of_policy"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/bxflow_custom_green_button"
+                android:text="@string/bxflow_next_button_label"
+                android:textColor="@color/bxflow_white"
+                fontPath="fonts/open_sans_regular.ttf"/>
+        </RelativeLayout>
+    </ScrollView>
+</android.support.design.widget.CoordinatorLayout>
